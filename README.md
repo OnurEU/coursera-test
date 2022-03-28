@@ -1,2 +1,2 @@
-# coursere-tesr
+# coursere-test
 Coursera test repository
